@@ -1,5 +1,5 @@
 # create variables
-length =  10
+length = 10
 width = 5 
 
 # calculate the area
